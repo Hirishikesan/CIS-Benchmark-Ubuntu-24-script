@@ -144,7 +144,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 
-* **GitHub:** [Hirishikesan-DevSecOps](https://github.com/Hirishikesan-DevSecOps)
+* **GitHub:** [Hirishikesan](https://github.com/Hirishikesan)
 * **LinkedIn:** [Hirishikesan BS](https://www.linkedin.com/in/hirishikesan-b-s-)
 
 ---
